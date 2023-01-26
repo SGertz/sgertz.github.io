@@ -1,0 +1,17 @@
+name,ring,quadrant,isNew,description
+Line 1,Hold,Techniques,FALSE,description 1
+Line 2,Trial,Techniques,FALSE,description 2
+Line3,Assess,Techniques,FALSE,description 3
+Line 4,Adopt,Techniques,FALSE,description 4
+Line 1,Hold,Tools,FALSE,description 1
+Line 2,Trial,Tools,FALSE,description 2
+Line3,Assess,Tools,FALSE,description 3
+Line 4,Adopt,Tools,FALSE,description 4
+Line 1,Hold,Platforms,FALSE,description 1
+Line 2,Trial,Platforms,FALSE,description 2
+Line3,Assess,Platforms,FALSE,description 3
+Line 4,Adopt,Platforms,FALSE,description 4
+Line 1,Hold,Languages & Frameworks,FALSE,description 1
+Line 2,Trial,Languages & Frameworks,FALSE,description 2
+Line3,Assess,Languages & Frameworks,FALSE,description 3
+Line 4,Adopt,Languages & Frameworks,FALSE,description 4
